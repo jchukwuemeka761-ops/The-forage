@@ -1,0 +1,6 @@
+{
+  "name": "The Forager's Drop | Premium Craft Beer & Wine Lounge",
+  "description": "Experience The Forager's Drop: 20 independent craft beers on tap, seasonal mulled wines & sangrias, artisanal cocktails, pub trivia, and private functions at 499A Whitehorse Road, Mitcham.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
